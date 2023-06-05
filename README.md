@@ -3,7 +3,7 @@
 
  Completed both scenarios
  Those should run
- I left some prints consciously, myabe you want to observe
+ I left some prints consciously, maybe you want to observe
  Although the code is working, still some improvements but I dont want to wait and push it.
  
  
